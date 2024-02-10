@@ -30,3 +30,6 @@ To get started with this project:
 ## Contributing
 Every contribution to this project is appreciated. Feel free to fork the repository, make changes, and submit a pull request.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=flaryx32/DiscordNitroGenerator&type=Date)](https://star-history.com/#flaryx32/DiscordNitroGenerator&Date)
